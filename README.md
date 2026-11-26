@@ -12,7 +12,7 @@
   <a href="https://www.linkedin.com/in/joadson-rocha">
     <img src="https://img.shields.io/badge/LinkedIn-131122?style=for-the-badge&logo=linkedin&logoColor=A855F7" alt="LinkedIn" />
   </a>
-  <a href="https://instagram.com/rochajoadson">
+  <a href="https://instagram.com/joadsonrocha_30">
     <img src="https://img.shields.io/badge/Instagram-131122?style=for-the-badge&logo=instagram&logoColor=A855F7" alt="Instagram" />
   </a>
 
