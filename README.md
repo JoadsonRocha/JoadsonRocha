@@ -1,24 +1,50 @@
-# Olá, eu sou o Joadson Rocha 👋
+<div align="center">
 
-**Full Stack Developer | Gestor de TI | Gerente de Projetos | EdTech**
+  <a href="https://joadsonrocha.github.io/">
+    <img src="./assets/hero-banner.svg" width="100%" alt="Joadson Rocha — Full Stack Developer | Gestor de TI • Gerente de Projetos & EdTech | Professor" />
+  </a>
 
-Profissional de Tecnologia e Educação com graduação em **Gestão em TI**, **MBA em Gestão Ágil de Projetos** e sólida formação em metodologias ágeis (Scrum, Design Thinking), gestão da qualidade e desenvolvimento de software.
+  <br /><br />
 
-Apaixonado por criar soluções digitais que geram impacto real — de aplicativos desktop de alta performance a plataformas SaaS focadas em produtividade, educação e gestão.
+  <a href="https://joadsonrocha.github.io/">
+    <img src="https://img.shields.io/badge/Portf%C3%B3lio_Online-7C3AED?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfólio Online" />
+  </a>
+  <a href="https://www.linkedin.com/in/joadson-rocha">
+    <img src="https://img.shields.io/badge/LinkedIn-131122?style=for-the-badge&logo=linkedin&logoColor=A855F7" alt="LinkedIn" />
+  </a>
+  <a href="https://instagram.com/rochajoadson">
+    <img src="https://img.shields.io/badge/Instagram-131122?style=for-the-badge&logo=instagram&logoColor=A855F7" alt="Instagram" />
+  </a>
 
----
+</div>
 
-### 🚀 Produtos em Produção (SaaS)
+<br />
+<img src="./assets/divider.svg" width="100%" alt="" />
 
-| Projeto | Descrição | Link |
-|---------|-----------|------|
-| **StratisPlanner** | Plataforma de planejamento estratégico ágil, OKRs e governança de projetos | [stratisplanner.com.br](https://stratisplanner.com.br) |
-| **RiseMindr** | Ecossistema de hábitos, foco e alta performance com analytics comportamental | [risemindr.com](https://www.risemindr.com) |
-| **Mestrio** | Sistema em nuvem para automação operacional e dashboards inteligentes | [Acessar App](https://mestrio-production.up.railway.app) |
+<h2 align="center">🚀 Produtos em Produção (SaaS)</h2>
+<p align="center"><sub>Soluções em nuvem desenhadas para produtividade, estratégia e automação operacional</sub></p>
 
----
+<p align="center">
+  <a href="https://stratisplanner.com.br"><img src="./assets/card-stratisplanner.svg" width="32%" alt="StratisPlanner — Planejamento estratégico ágil e OKRs" /></a>
+  <a href="https://www.risemindr.com"><img src="./assets/card-risemindr.svg" width="32%" alt="RiseMindr — Hábitos, foco e analytics comportamental" /></a>
+  <a href="https://mestrio-production.up.railway.app"><img src="./assets/card-mestrio.svg" width="32%" alt="Mestrio — Automação operacional e dashboards inteligentes" /></a>
+</p>
 
-### 💻 Repositórios por Categoria
+<br />
+<img src="./assets/divider.svg" width="100%" alt="" />
+
+<h2 align="center">💻 Portfólio Open Source</h2>
+<p align="center"><sub>Destaques em Desktop, Full Stack, Mídia e EdTech</sub></p>
+
+| Projeto | Categoria | Descrição | Acesso |
+|---------|-----------|-----------|--------|
+| **EbookFinder** | `Desktop & AI` | Organizador offline de e-books e quadrinhos (EPUB, PDF, CBZ) com IA (SkillBook) | [Ver Repo ↗](https://github.com/JoadsonRocha/EbookFinder) |
+| **MultDownload 4.0** | `Electron` | Downloader de vídeos e áudios do YouTube (até 8K) com interface moderna | [Ver Repo ↗](https://github.com/JoadsonRocha/MultDownload_Oficial) |
+| **Lumina Presentation** | `Desktop` | Apresentador profissional com projeção dual-screen e exportação PPTX/PDF | [Ver Repo ↗](https://github.com/JoadsonRocha/lumina-presentation) |
+| **MediaFinder** | `Desktop` | Organizador e player de vídeos locais com busca inteligente e capas | [Ver Repo ↗](https://github.com/JoadsonRocha/MediaFinder) |
+
+<details>
+<summary><b>📂 Explorar todos os repositórios por categoria (17 projetos)</b></summary>
 
 #### 🖥️ Desktop & Electron
 - **[EbookFinder](https://github.com/JoadsonRocha/EbookFinder)** — Organizador offline de e-books e quadrinhos (EPUB, PDF, CBZ) com IA (SkillBook)
@@ -48,37 +74,40 @@ Apaixonado por criar soluções digitais que geram impacto real — de aplicativ
 - **[EduInclusivo](https://github.com/JoadsonRocha/EduInclusivo)** — Assistente de planos de aula e PEI com IA
 - **[HIASD / HIASD-py](https://github.com/JoadsonRocha/HIASD-py)** — Hinário Adventista (versões JS e Python)
 
----
+</details>
 
-### 🛠️ Stack Tecnológica
+<br />
+<img src="./assets/divider.svg" width="100%" alt="" />
 
-**Frontend & Desktop**  
-`Electron` `React` `TypeScript` `JavaScript` `HTML5` `CSS3` `Vite` `Capacitor`
+<h2 align="center">🛠️ Stack Tecnológica</h2>
 
-**Backend & Dados**  
-`Node.js` `Supabase` `PostgreSQL` `REST APIs` `GraphQL`
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,ts,js,electron,html,css,vite,tailwind,nodejs,express,supabase,postgres,graphql,python,git&theme=dark" alt="Tech Stack" />
+</p>
 
-**Ferramentas & Outros**  
-`FFmpeg` `yt-dlp` `Python` `Git` `Scrum` `Design Thinking`
+<p align="center">
+  <img src="https://img.shields.io/badge/Capacitor-131122?style=flat-square&logo=capacitor&logoColor=A855F7" alt="Capacitor" />
+  <img src="https://img.shields.io/badge/REST_APIs-131122?style=flat-square&logo=fastapi&logoColor=A855F7" alt="REST APIs" />
+  <img src="https://img.shields.io/badge/FFmpeg-131122?style=flat-square&logo=ffmpeg&logoColor=A855F7" alt="FFmpeg" />
+  <img src="https://img.shields.io/badge/yt--dlp-131122?style=flat-square&logo=youtube&logoColor=A855F7" alt="yt-dlp" />
+  <img src="https://img.shields.io/badge/Scrum_%26_%C3%81gil-131122?style=flat-square&logo=jira&logoColor=A855F7" alt="Scrum" />
+  <img src="https://img.shields.io/badge/Design_Thinking-131122?style=flat-square&logo=figma&logoColor=A855F7" alt="Design Thinking" />
+</p>
 
----
+<br />
+<img src="./assets/divider.svg" width="100%" alt="" />
 
-### 📊 GitHub Stats
+<h2 align="center">📊 GitHub Analytics</h2>
 
-![Joadson Rocha's GitHub stats](https://github-readme-stats.vercel.app/api?username=JoadsonRocha&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=JoadsonRocha&show_icons=true&bg_color=131122&title_color=c084fc&icon_color=7c3aed&text_color=cbd5e1&border_color=2a2444&count_private=true" width="49%" alt="Joadson Rocha GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoadsonRocha&layout=compact&bg_color=131122&title_color=c084fc&text_color=cbd5e1&border_color=2a2444" width="49%" alt="Top Languages" />
+</p>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JoadsonRocha&layout=compact&theme=tokyonight&hide_border=true)
+<br />
+<img src="./assets/divider.svg" width="100%" alt="" />
 
----
-
-### 🌐 Conecte-se comigo
-
-- 💼 [LinkedIn](https://www.linkedin.com/in/joadson-rocha)
-- 🌐 [Portfólio](https://joadsonrocha.github.io/)
-- 📱 [Instagram](https://instagram.com/rochajoadson)
-- 📍 Boa Vista - RR, Brasil
-
----
-
-⭐️ *Se gostou de algum projeto, considere deixar uma estrela!*  
-*"Código limpo, impacto real."*
+<div align="center">
+  <p>⭐️ <em>Se gostou de algum projeto, considere deixar uma estrela!</em></p>
+  <p><strong>"Código limpo, impacto real."</strong> • <a href="https://joadsonrocha.github.io/">joadsonrocha.github.io</a></p>
+</div>
